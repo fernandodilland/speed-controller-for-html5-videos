@@ -21,4 +21,4 @@ Features:
 
 ## License
 
-[web-traffic-connections](https://github.com/fernandomireles/speed-controller-for-HTML5-videos/) are released under [MIT license](https://github.com/fernandomireles/speed-controller-for-HTML5-videos/blob/main/LICENSE) . Copyright (c) [Fernando Mireles](https://github.com/fernandomireles).
+[speed-controller-for-html5-videos](https://github.com/fernandomireles/speed-controller-for-HTML5-videos/) are released under [MIT license](https://github.com/fernandomireles/speed-controller-for-HTML5-videos/blob/main/LICENSE) . Copyright (c) [Fernando Mireles](https://github.com/fernandomireles).
